@@ -157,6 +157,9 @@ body{
 .our-job{
     margin-bottom: 120px;
 }
+.our-job_list{
+    gap: 24px;
+}
 .our-job_title{
     margin-bottom: 72px;
 }
