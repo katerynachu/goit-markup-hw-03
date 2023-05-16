@@ -181,6 +181,9 @@ letter-spacing: 0.02em;
     background-color: var(--bg-grey);
     padding: 120px 0;
 }
+.team_list{
+    gap: 24px;
+}
 .team_title{
     margin-bottom: 72px;
 }
