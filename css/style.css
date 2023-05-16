@@ -95,6 +95,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--dark-grey);
+    padding: 24px 0;
 
 }
 .menu_link:hover,
@@ -216,6 +217,7 @@ letter-spacing: 0.02em;
 }
 .team_name{
     text-align: center;
+    margin-bottom: 8px;
 }
 .footer{
     background-color: var(--dark-grey);
